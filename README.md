@@ -1,1 +1,3 @@
-Salut, le Monde!
+<<<<<<< HEAD
+Привет, Мир!
+>>>>>>> master
